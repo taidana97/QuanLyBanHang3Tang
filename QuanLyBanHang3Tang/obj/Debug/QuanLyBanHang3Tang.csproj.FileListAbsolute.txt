@@ -1,0 +1,9 @@
+E:\Window\QuanLyBanHang3Tang\QuanLyBanHang3Tang\bin\Debug\QuanLyBanHang3Tang.exe.config
+E:\Window\QuanLyBanHang3Tang\QuanLyBanHang3Tang\bin\Debug\QuanLyBanHang3Tang.exe
+E:\Window\QuanLyBanHang3Tang\QuanLyBanHang3Tang\bin\Debug\QuanLyBanHang3Tang.pdb
+E:\Window\QuanLyBanHang3Tang\QuanLyBanHang3Tang\obj\Debug\QuanLyBanHang3Tang.csprojResolveAssemblyReference.cache
+E:\Window\QuanLyBanHang3Tang\QuanLyBanHang3Tang\obj\Debug\QuanLyBanHang3Tang.Form1.resources
+E:\Window\QuanLyBanHang3Tang\QuanLyBanHang3Tang\obj\Debug\QuanLyBanHang3Tang.Properties.Resources.resources
+E:\Window\QuanLyBanHang3Tang\QuanLyBanHang3Tang\obj\Debug\QuanLyBanHang3Tang.csproj.GenerateResource.Cache
+E:\Window\QuanLyBanHang3Tang\QuanLyBanHang3Tang\obj\Debug\QuanLyBanHang3Tang.exe
+E:\Window\QuanLyBanHang3Tang\QuanLyBanHang3Tang\obj\Debug\QuanLyBanHang3Tang.pdb
